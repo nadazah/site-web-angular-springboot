@@ -1,0 +1,48 @@
+{
+   "publications":[
+      {
+         "id":1,
+         "name":"membreA",
+         "image":"https://www.lamaison.fr/media/wysiwyg/recolte-pomme-cidre.jpg",
+         "categorie":"plantA",
+         "description":"ssss",
+         "comment":"Je suis un cultivateur de pommes depuis de nombreuses années, mais j'ai toujours eu du mal à traiter les maladies de mes arbres. Grâce à ce site, j'ai été en mesure de détecter et de traiter rapidement les maladies de mes arbres de manière efficace. Les résultats sont incroyables et je suis tellement reconnaissant pour ce service !",
+         "rating":5,
+         "author":"membreA",
+         "date":"2020-12627T17:57:28:556094Z"
+      },
+      {
+         "id":2,
+         "name":"membreB",
+         "image":"https://i.ytimg.com/vi/MUSaw3T3jLA/maxresdefault.jpg",       
+         "categorie":"plantB",
+         "description":"ssss",
+         "comment":"Je suis tellement heureux d'avoir trouvé ce site ! Les traitements proposés ont sauvé mon arbre de pomme d'une maladie grave. J'ai été fasciné de voir à quel point les résultats étaient rapides et efficaces. Merci beaucoup !",
+         "rating":8,
+         "author":"membreB",
+         "date":"2020-12627T17:57:28:556094Z"
+      },
+      {
+         "id":3,
+         "name":"membreC",
+         "image":"https://www.papillesetpupilles.fr/wp-content/uploads/2009/10/Pommes-%C2%A9-Natalie-Grainger-on-Unsplash-3.jpg",
+         "categorie":"plantC",
+         "description":"ssss",
+         "comment":"traitements recommandés, j'ai réussi à guérir mon arbre de pomme d'une maladie qui menaçait sa survie. Les résultats sont incroyables !",
+         "rating":4,
+         "author":"membreC",
+         "date":"2020-12627T17:57:28:556094Z"
+      },
+      {
+         "id":4,
+         "name":"membreD",
+         "image":"https://www.produits-locaux.bzh/app/uploads/2021/03/pomme-sur-l-arbre.png",
+         "categorie":"plantD",
+         "description":"ssss",
+         "comment":"Je suis un jardinier passionné depuis des années, mais je n'ai jamais eu autant de succès dans le traitement des maladies de mes arbres de pomme jusqu'à ce que j'utilise ce site. Les conseils et les traitements sont exceptionnels, et mes arbres sont plus sains que jamais !",
+         "rating":7,
+         "author":"membreD",
+         "date":"2020-12627T17:57:28:556094Z"
+      }
+   ]
+}
